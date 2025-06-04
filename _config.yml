@@ -1,3 +1,10 @@
-theme: jekyll-theme-minimal
-title: sam's homepage
-description: About sam0hack
+title: "Sameer Baig"
+email: im.sam.b@icloud.com
+description: >-
+  Senior Software Engineer with a decade of experience designing scalable systems.
+baseurl: ""
+url: "https://sam0hack.github.io"
+theme: minima
+github_username: sam0hack
+
+markdown: kramdown
